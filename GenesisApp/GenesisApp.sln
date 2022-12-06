@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenesisApp", "GenesisApp\GenesisApp.csproj", "{FE963112-161C-4789-8648-B440D1E6C4F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE963112-161C-4789-8648-B440D1E6C4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE963112-161C-4789-8648-B440D1E6C4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE963112-161C-4789-8648-B440D1E6C4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE963112-161C-4789-8648-B440D1E6C4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8586B9B4-CAE2-4147-A469-731AF5DD5999}
+	EndGlobalSection
+EndGlobal
