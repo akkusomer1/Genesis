@@ -5,3 +5,8 @@ Console.WriteLine("Merhaba, Türkiye!");
 
 Console.WriteLine("Merhaba, Turkey!");
 
+
+
+
+Console.WriteLine("Hello local repo");
+
